@@ -1,5 +1,9 @@
 # magu-plugin-toc
 
+Magu plugin that generate table of contents
+
+[![Build Status](https://travis-ci.org/nju33/magu-plugin-toc.svg?branch=master)](https://travis-ci.org/nju33/magu-plugin-toc) [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo)
+
 ## Install
 
 ```bash
