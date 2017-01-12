@@ -1,1 +1,1 @@
-module.exports = require('./dist/maku-plugin-toc').default;
+module.exports = require('./dist/magu-plugin-toc').default;
