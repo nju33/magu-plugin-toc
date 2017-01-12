@@ -1,6 +1,6 @@
 {
   "name": "magu-plugin-toc",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Magu plugin that generate table of contents",
   "main": "./magu-plugin-toc.js",
   "scripts": {
